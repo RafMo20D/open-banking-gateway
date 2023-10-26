@@ -1,4 +1,4 @@
-FROM nginx:1.25.2-alpine
+FROM nginx:1.25.3-alpine
 LABEL maintainer="https://github.com/adorsys/open-banking-gateway"
 COPY nginx.conf /etc/nginx/nginx.conf.template
 COPY entry.sh /opt/entry.sh
