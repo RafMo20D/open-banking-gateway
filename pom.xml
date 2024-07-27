@@ -137,8 +137,8 @@
           <jjwt.version>0.11.2</jjwt.version>
           <nimbus.version>8.36.2</nimbus.version>
           <javapoet.version>1.13.0</javapoet.version>
-          <swagger-parser.version>2.0.28</swagger-parser.version>
-          <jackson-yaml.version>2.13.4</jackson-yaml.version>
+          <swagger-parser.version>2.1.16</swagger-parser.version>
+          <jackson-yaml.version>2.15.0</jackson-yaml.version>
           <auto-service.version>1.0.1</auto-service.version>
   
           <!-- Flowable BPMN -->
